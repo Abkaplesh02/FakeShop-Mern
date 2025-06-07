@@ -1,0 +1,11 @@
+.toast-custom {
+    @apply text-xl py-6 px-10; /* Apply Tailwind CSS classes */
+}
+
+.toast-body-custom {
+    @apply text-xl; /* Apply Tailwind CSS classes */
+}
+
+.toast-close-custom {
+    @apply text-xl; /* Apply Tailwind CSS classes */
+}

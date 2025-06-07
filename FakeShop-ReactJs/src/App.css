@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes forward {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(100px); /* Adjust the value as needed */
+    }
+}
+
+.animate-forward {
+    animation: forward 4s linear infinite; /* Adjust the duration and timing function as needed */
+}

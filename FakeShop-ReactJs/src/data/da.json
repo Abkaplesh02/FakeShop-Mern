@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "Abkaplesh02@gmail.com",
+      "name": "Abhishek Kaplesh",
+      "email": "Abkaplesh02@gmail.com",
+      "password": "Abkaplesh9@",
+      "mobile": "8699159612",
+      "cart": [],
+      "wishList": []
+    },
+    {
+      "id": "shubhu@gmail.com",
+      "name": "Shubham Shanker",
+      "email": "shubhu@gmail.com",
+      "password": "Abkaplesh9@",
+      "mobile": "1001",
+      "cart": [],
+      "wishList": []
+    },
+    {
+      "id": "abkaplesh02@gmail.com",
+      "name": "Abhishek Kaplesh",
+      "email": "abkaplesh02@gmail.com",
+      "password": "Abkaplesh9@",
+      "mobile": "08699159612",
+      "cart": [],
+      "wishList": []
+    },
+    {
+      "id": "cbfa",
+      "name": "Abhishekikk Kaplesh",
+      "email": "abkap@gmail.com",
+      "password": "Abkaplesh9@",
+      "mobile": "08699159612"
+    },
+    {
+      "id": "b3e2",
+      "name": "Abhishekkk Kaplesh",
+      "email": "abkaples@gmail.com",
+      "password": "Abkaplesh9@",
+      "mobile": "8699159612"
+    }
+  ]
+}
