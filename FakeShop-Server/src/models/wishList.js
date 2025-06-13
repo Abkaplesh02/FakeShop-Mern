@@ -8,7 +8,7 @@ const wishListItems=new mongoose.Schema({
         type:String,
         default:null,
         enum:{
-            values:["men's clothing","MEN", "WOMEN", "KIDS" , "HOME & LIVING" , "Electronics"],
+            values:["men's clothing","jewelery", "electronics", "women's clothing" , "HOME & LIVING" , "Electronics"],
             message:`{VALUE} is not valid category type`
         }
     },
